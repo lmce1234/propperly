@@ -1,0 +1,4 @@
+cd /workspace/shadcn-ui
+git add .
+git commit -m "Added multi-step onboarding wizard and fixed build issues"
+git push
